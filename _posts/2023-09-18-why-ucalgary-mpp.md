@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why ucalgary mpp"
+title: "Why Ucalgary MPP?"
 date: 2023-09-18
 ---
 

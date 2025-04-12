@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why public policy now"
+title: "Why public policy now?"
 date: 2023-09-17
 ---
 
@@ -38,10 +38,6 @@ date: 2023-09-17
 
 <!-- wp:paragraph -->
 <p>Fueled by a desire to be at the forefront of creating meaningful solutions, I envisioned utilizing my extensive experience in the oil and gas sector to influence global energy policy changes. I guess you will find out how I do if I keep blogging haha.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Next up:</strong> <a rel="noreferrer noopener" href="https://ahmedelmeligy.com/2023/09/18/why-ucalgary-mpp/" target="_blank">Why UCalgary MPP!</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
