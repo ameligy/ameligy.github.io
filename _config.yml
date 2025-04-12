@@ -10,9 +10,3 @@ theme: jekyll-theme-cayman
 # Social
 twitter_username: ahmedelmeligy
 github_username:  ameligy
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
