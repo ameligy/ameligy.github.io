@@ -1,7 +1,10 @@
-title: Ahmed's Blog
-description: A simple Jekyll blog migrated from WordPress
-baseurl: "" 
-url: "https://yourusername.github.io"
-theme: minima
-plugins:
-  - jekyll-feed
+title: "Ahmed Elmeligy's Blog"
+tagline: "Blog migrated from WordPress using Chirpy"
+url: "https://ameligy.github.io"
+baseurl: ""
+theme: jekyll-theme-chirpy
+lang: en
+timezone: Canada/Mountain
+author:
+  name: Ahmed Elmeligy
+  email: your@email.com
