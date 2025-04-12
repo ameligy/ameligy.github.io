@@ -1,12 +1,7 @@
-title: "Ahmed Elmeligy"
-author: "Ahmed Elmeligy"
-email: "your@email.com"
-description: >- 
-  Blog migrated from WordPress using Beautiful Jekyll.
-baseurl: "" 
-url: "https://ameligy.github.io"
-theme: jekyll-theme-cayman
+title: Ahmed Elmeligy
+description: A clean blog powered by Jekyll and GitHub Pages.
+theme: minima
 
-# Social
-twitter_username: ahmedelmeligy
-github_username:  ameligy
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
