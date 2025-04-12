@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Canadian Climate Institute: Canada’s Oil and Gas sector"
+title: "Canadian climate institute canadas oil and gas sector"
 date: 2023-10-21
 ---
 

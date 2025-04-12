@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCalgary MPP Week 24 Reflection"
+title: "Ucalgary mpp week 24 reflection"
 date: 2024-09-02
 ---
 

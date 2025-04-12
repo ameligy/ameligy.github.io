@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment: Competition Policy and Regulatory Economics Term Project"
+title: "Assignment competition policy and regulatory economics term project"
 date: 2023-12-31
 ---
 

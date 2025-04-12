@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bardach's Eightfold Path Key Takeaways"
+title: "Bardachs eightfold path key takeaways"
 date: 2023-09-19
 ---
 

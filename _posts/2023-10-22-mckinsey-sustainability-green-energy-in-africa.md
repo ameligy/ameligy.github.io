@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "McKinsey Sustainability: Green Energy in Africa"
+title: "Mckinsey sustainability green energy in africa"
 date: 2023-10-22
 ---
 

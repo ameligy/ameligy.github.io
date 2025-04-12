@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ahmed's Introduction"
+title: "Introduction"
 date: 2023-09-16
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCalgary MPP Week 3 Reflection"
+title: "Ucalgary mpp week 3 reflection"
 date: 2023-09-21
 ---
 

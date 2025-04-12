@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SLAPP = Legal Bullying?"
+title: "Slapp legal bullying"
 date: 2023-10-17
 ---
 

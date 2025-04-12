@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Optimizing Transmission Infrastructure for Renewable Energy Integration in Alberta | 7 Policy Recommendations"
+title: "Optimizing transmission infrastructure for renewable energy integration in alberta 7 policy recommendations"
 date: 2024-08-21
 ---
 

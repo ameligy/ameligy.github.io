@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UCalgary MPP Second Semester"
+title: "Ucalgary mpp second semester"
 date: 2024-01-28
 ---
 

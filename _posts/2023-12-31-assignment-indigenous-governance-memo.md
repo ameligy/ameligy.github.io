@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment: Indigenous Governance Memo"
+title: "Assignment indigenous governance memo"
 date: 2023-12-31
 ---
 

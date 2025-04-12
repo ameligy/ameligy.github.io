@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment: Alberta’s Carbon Emission Legislative History"
+title: "Assignment albertas carbon emission legislative history"
 date: 2023-12-22
 ---
 

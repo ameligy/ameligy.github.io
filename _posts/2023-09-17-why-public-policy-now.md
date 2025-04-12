@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Public Policy Now?"
+title: "Why public policy now"
 date: 2023-09-17
 ---
 

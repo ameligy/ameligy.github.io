@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment: Fictional Wall-E Policy Brief"
+title: "Fictional wall e policy brief"
 date: 2023-09-19
 ---
 
