@@ -41,5 +41,9 @@ date: 2023-09-17
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p><strong>Next up:</strong> <a rel="noreferrer noopener" href="https://ahmedelmeligy.com/2023/09/18/why-ucalgary-mpp/" target="_blank">Why UCalgary MPP!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>*<strong>Picture:&nbsp;</strong>2019 Imperial ambassador at the Greater Hardisty Community Day; Edmonton, AB</p>
 <!-- /wp:paragraph -->
