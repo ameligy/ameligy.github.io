@@ -1,0 +1,7 @@
+title: Ahmed's Blog
+description: A simple Jekyll blog migrated from WordPress
+baseurl: "" 
+url: "https://yourusername.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
