@@ -3,4 +3,12 @@ layout: home
 title: Welcome
 ---
 
-Hi! This is my new blog. Posts below were imported from my WordPress site.
+Here are your posts:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})
+    </li>
+  {% endfor %}
+</ul>
