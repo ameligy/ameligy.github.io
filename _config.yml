@@ -1,10 +1,18 @@
-title: "Ahmed Elmeligy's Blog"
-tagline: "Blog migrated from WordPress using Chirpy"
+title: "Ahmed Elmeligy"
+author: "Ahmed Elmeligy"
+email: "your@email.com"
+description: >- 
+  Blog migrated from WordPress using Beautiful Jekyll.
+baseurl: "" 
 url: "https://ameligy.github.io"
-baseurl: ""
-theme: jekyll-theme-chirpy
-lang: en
-timezone: Canada/Mountain
-author:
-  name: Ahmed Elmeligy
-  email: your@email.com
+theme: jekyll-theme-cayman
+
+# Social
+twitter_username: ahmedelmeligy
+github_username:  ameligy
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
