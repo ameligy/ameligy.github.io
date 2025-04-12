@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction"
 date: 2023-09-16
-cover_image: /assets/images/img_5617
+cover_image: /assets/images/img_5617.jpg
 ---
 
 <!-- wp:paragraph -->
