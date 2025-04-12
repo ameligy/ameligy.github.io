@@ -2,7 +2,6 @@
 layout: post
 title: "Introduction"
 date: 2023-09-16
-cover_image: /assets/images/img_5617.jpg
 ---
 
 <!-- wp:paragraph -->
@@ -28,3 +27,7 @@ cover_image: /assets/images/img_5617.jpg
 <!-- wp:paragraph -->
 <p>*<strong>Picture: </strong>summit of Mount Temple in Banff National Park Jul 20/23.</p>
 <!-- /wp:paragraph -->
+
+---
+
+<img src="/assets/images/img_5617.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
