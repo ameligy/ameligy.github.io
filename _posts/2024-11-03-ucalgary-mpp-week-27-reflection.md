@@ -65,13 +65,7 @@ date: 2024-11-03
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:&nbsp;</strong>MPP Week 28 Reflection!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> 1929 Fire Engine at Charlottetown, PEI taken Aug/12 2022</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<img src="/assets/images/20220812_152557.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
