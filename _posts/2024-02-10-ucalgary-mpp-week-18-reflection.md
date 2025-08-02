@@ -109,9 +109,7 @@ date: 2024-02-10
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/02/10/ucalgary-mpp-week-19-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 19 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Deer Lake Burnaby, BC taken Sept/20 2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_1332.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
