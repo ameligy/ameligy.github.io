@@ -33,9 +33,7 @@ date: 2023-10-13
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/10/20/ucalgary-mpp-week-8-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 8 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Peace bridge in Calgary, AB taken May 01/22.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_2186-1.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
