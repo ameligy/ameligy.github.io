@@ -29,9 +29,7 @@ date: 2023-09-21
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/10/01/ucalgary-mpp-week-4-reflection/" target="_blank" rel="noreferrer noopener">MPP week 4 reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Downtown Edmonton, AB taken Mar. 28/21.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ahmed_elmeligy-assignment2_-002.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
