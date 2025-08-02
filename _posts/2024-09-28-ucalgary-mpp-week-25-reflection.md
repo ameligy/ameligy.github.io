@@ -65,9 +65,7 @@ date: 2024-09-28
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/11/03/ucalgary-mpp-week-26-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 26 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Maligne Canyon, Jasper National Park near Jasper, AB taken Jul/20 2020.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0472.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
