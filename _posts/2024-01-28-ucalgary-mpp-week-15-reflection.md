@@ -83,9 +83,7 @@ date: 2024-01-28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/01/28/ucalgary-mpp-week-16-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 16 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;The Kwakiutl Totem Pole Edmonton, AB taken Apr/04 2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ahmed_elmeligy-assignment3_-002-790445282-e1706480501678.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
