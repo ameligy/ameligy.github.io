@@ -25,9 +25,7 @@ date: 2023-10-01
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:&nbsp;</strong><a href="https://ahmedelmeligy.com/2023/10/01/ucalgary-mpp-week-5-reflection/" target="_blank" rel="noreferrer noopener">MPP week 5 reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Prince Of Wales Hotel Waterton Lakes National Park, AB Jul. 16/22.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_2397.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
