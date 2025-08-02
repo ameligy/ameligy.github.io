@@ -21,10 +21,6 @@ date: 2023-09-16
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/09/17/why-public-policy-now/" target="_blank" rel="noreferrer noopener">Why Public Policy Now?</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>*<strong>Picture: </strong>summit of Mount Temple in Banff National Park Jul 20/23.</p>
 <!-- /wp:paragraph -->
 
