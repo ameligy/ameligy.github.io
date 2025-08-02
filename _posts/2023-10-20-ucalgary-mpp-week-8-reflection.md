@@ -91,9 +91,7 @@ date: 2023-10-20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/10/31/ucalgary-mpp-week-9-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 9 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Cavell Pond in Jasper National Park, AB taken Aug 29/20.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0695.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
