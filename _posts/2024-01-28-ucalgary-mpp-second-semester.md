@@ -71,9 +71,7 @@ date: 2024-01-28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/02/10/ucalgary-mpp-week-17-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 17 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;North Saskatchewan River Edmonton, AB taken Mar. 21/21.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ahmed-elmeligy_image-003.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
