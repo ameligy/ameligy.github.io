@@ -133,9 +133,7 @@ date: 2024-03-05
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/03/14/ucalgary-mpp-week-23-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 23 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Great Pyramids of Giza Giza, Egypt taken Nov/22 2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_1764-2.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
