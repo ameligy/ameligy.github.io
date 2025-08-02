@@ -79,7 +79,7 @@ date: 2024-02-10
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-</p>*<strong>Photo: <strong>Bugaboo Provincial Park, BC taken Jul/14 2022.</p>
+</p>*<strong>Photo: </strong> Bugaboo Provincial Park, BC taken Jul/14 2022.</p>
 <!-- /wp:paragraph -->
 
 <img src="/assets/images/2022-07-14_08-25-12_928.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
