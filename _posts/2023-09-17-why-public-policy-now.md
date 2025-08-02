@@ -41,7 +41,7 @@ date: 2023-09-17
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>*Picture: 2019 Imperial ambassador at the Greater Hardisty Community Day; Edmonton, AB</p>
+<p>*<strong>Picture: </strong> 2019 Imperial ambassador at the Greater Hardisty Community Day; Edmonton, AB</p>
 <!-- /wp:paragraph -->
 
 ---
