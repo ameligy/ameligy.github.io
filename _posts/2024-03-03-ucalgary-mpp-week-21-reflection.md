@@ -77,9 +77,7 @@ date: 2024-03-03
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/03/05/ucalgary-mpp-week-22-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 22 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Temple of Edfu Aswan, Egypt taken Dec/04 2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_1913-2.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
