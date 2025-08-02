@@ -141,3 +141,5 @@ date: 2023-10-31
 <!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Japser National Park, AB taken Aug 2/2020.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0578.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
