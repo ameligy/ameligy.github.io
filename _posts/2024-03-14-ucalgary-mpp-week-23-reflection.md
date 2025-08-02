@@ -57,9 +57,7 @@ date: 2024-03-14
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/09/02/ucalgary-mpp-week-24-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 24 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Hopewell Rocks Provincial Park Hopewell Cape, NB&nbsp;taken Aug/13 2022</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/20220813_111714-2.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
