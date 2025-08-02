@@ -44,8 +44,9 @@ date: 2023-09-19
 <p><strong>Additional References: </strong>Bardach's 8FP course&nbsp;<a rel="noreferrer noopener" href="https://www.youtube.com/playlist?list=PL9hW5SgYMZr0rgVVjiyOrpzn73a85XG1M" target="_blank">short interviews</a></p>
 <!-- /wp:paragraph -->
 
+
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/09/19/fictional-wall-e-policy-brief/" target="_blank" rel="noreferrer noopener">Fictional Wall-E Policy Brief</a></p>
+<p>*<strong>Picture: </strong> Walter Dale Bridge Edmonton, AB taken Mar. 20/21</p>
 <!-- /wp:paragraph -->
 
 ---
