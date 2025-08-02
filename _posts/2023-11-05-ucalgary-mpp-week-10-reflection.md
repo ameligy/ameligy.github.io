@@ -217,11 +217,9 @@ date: 2023-11-05
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/11/13/ucalgary-mpp-week-11-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 11 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Aga Khan Garden at the University of Alberta Botanic Garden in Edmonton, AB, taken Sept. 20/2021.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:footnotes /-->
+
+<img src="/assets/images/img_1385.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
