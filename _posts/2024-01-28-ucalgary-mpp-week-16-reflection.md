@@ -29,9 +29,7 @@ date: 2024-01-28
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/01/28/ucalgary-mpp-second-semester/" target="_blank" rel="noreferrer noopener">UCalgary MPP Second Semester</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;High Level Bridge Edmonton, AB taken Apr/04 2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ahmed_elmeligy-assignment3_-003.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
