@@ -47,9 +47,8 @@ date: 2023-09-21
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/09/21/ucalgary-mpp-week-3-reflection/" target="_blank" rel="noreferrer noopener">MPP week 3 reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Old Man (or Roche Bonhomme) trail summit in Jasper National Park, AB Jul. 18/20.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0489.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
+
