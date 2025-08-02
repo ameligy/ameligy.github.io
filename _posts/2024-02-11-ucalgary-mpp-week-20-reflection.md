@@ -57,9 +57,7 @@ date: 2024-02-11
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/03/03/ucalgary-mpp-week-21-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 21 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Waterton Lakes National Park, AB taken Jul/16 2022.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_2420-2.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
