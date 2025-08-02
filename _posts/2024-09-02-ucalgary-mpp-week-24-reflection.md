@@ -55,9 +55,7 @@ date: 2024-09-02
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong>MPP Week 25 Reflection!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Downtown Edmonton, AB taken Mar/28 2021</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/un-edited-ahmed_elmeligy-assignment2_-004.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
