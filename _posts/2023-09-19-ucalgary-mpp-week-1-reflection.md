@@ -69,3 +69,5 @@ date: 2023-09-19
 <!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Goldbar Park Edmonton, AB taken Mar. 21/21.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ahmed-elmeligy_image-004.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
