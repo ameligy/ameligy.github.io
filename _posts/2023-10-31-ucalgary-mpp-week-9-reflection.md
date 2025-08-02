@@ -135,10 +135,6 @@ date: 2023-10-31
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/11/05/ucalgary-mpp-week-10-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 10 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Japser National Park, AB taken Aug 2/2020.</p>
 <!-- /wp:paragraph -->
 
