@@ -119,9 +119,7 @@ date: 2023-12-31
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/12/31/ucalgary-mpp-week-14-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 14 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Banff, NP taken Aug/02 2020.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0647.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
