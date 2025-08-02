@@ -59,7 +59,7 @@ date: 2023-11-05
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>While discussing Khan's paper I got introduced to Chicago School of Economics which is an economic school of thought, founded in the 1930s by Frank Hyneman Knight, that promoted the virtues of free-market principles to better society by increasing social welfare. Khan argues that Amazon’s tactics, while beneficial for consumers in the short run<sup data-fn="8fdb342e-1202-42dc-b450-873949270ce2" class="fn"><a href="#8fdb342e-1202-42dc-b450-873949270ce2" id="8fdb342e-1202-42dc-b450-873949270ce2-link">1</a></sup>, may harm market health and consumer choice in the long run. This challenges the Chicago School's principle that low consumer prices are indicative of efficient markets and sound competitive practices. </p>
+<p>While discussing Khan's paper I got introduced to Chicago School of Economics which is an economic school of thought, founded in the 1930s by Frank Hyneman Knight, that promoted the virtues of free-market principles to better society by increasing social welfare. Khan argues that Amazon’s tactics, while beneficial for consumers in the short run, may harm market health and consumer choice in the long run. This challenges the Chicago School's principle that low consumer prices are indicative of efficient markets and sound competitive practices. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -219,7 +219,5 @@ date: 2023-11-05
 <!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Aga Khan Garden at the University of Alberta Botanic Garden in Edmonton, AB, taken Sept. 20/2021.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:footnotes /-->
 
 <img src="/assets/images/img_1385.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
