@@ -79,5 +79,8 @@ date: 2024-02-10
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Next Up: <a href="https://ahmedelmeligy.com/2024/02/11/ucalgary-mpp-week-20-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 20 Reflection!</a><br><br>*Photo: Bugaboo Provincial Park, BC taken Jul/14 2022.</p>
+</p>*<strong>Photo: <strong>Bugaboo Provincial Park, BC taken Jul/14 2022.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/2022-07-14_08-25-12_928.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
+
