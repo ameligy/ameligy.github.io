@@ -63,10 +63,6 @@ date: 2023-09-19
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a rel="noreferrer noopener" href="https://ahmedelmeligy.com/2023/09/19/bardachs-eightfold-path-key-takeaways/" target="_blank">Key Takeaways of Bardach's Eightfold Path</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Goldbar Park Edmonton, AB taken Mar. 21/21.</p>
 <!-- /wp:paragraph -->
 
