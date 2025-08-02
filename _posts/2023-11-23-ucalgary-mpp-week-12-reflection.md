@@ -17,9 +17,7 @@ date: 2023-11-23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/12/31/ucalgary-mpp-week-13-reflection/" target="_blank" rel="noreferrer noopener">Week 13 Reflection Post!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;The Big Fiddle in Sydney, Nova Scotia taken Aug. 11/2023.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/2022-08-11_10-29-00_020.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
