@@ -55,9 +55,7 @@ date: 2023-12-31
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/01/28/ucalgary-mpp-week-15-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 15 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;West Bragg Creek Provincial Recreation Area Aug/19 2023.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/ironlegs202320230819383-vi.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
