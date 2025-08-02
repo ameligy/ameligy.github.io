@@ -51,9 +51,7 @@ date: 2023-11-13
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/11/23/ucalgary-mpp-week-12-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 12 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;100 Ave NW Walkway Edmonton, AB taken Jul. 18/21.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0548-2.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
