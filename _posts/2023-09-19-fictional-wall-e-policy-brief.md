@@ -89,7 +89,3 @@ date: 2023-09-19
 <!-- wp:paragraph -->
 <p>To ensure the success of this policy option, it is essential for Captain B. McCrea to actively engage the key stakeholders namely, Axiom’s citizens and BnL Corporation. It is recommended to establish bi-weekly townhalls where citizens can voice their opinions, suggestions, and concerns, thereby encouraging active participation and ownership of the recolonization process. Additionally, bringing BnL on board as a partner to leverage their technological prowess and resources in facilitating the transformation. BnL would be mandated to shift its business model to focus on sustainable products and services, aligning its mission statement with the objectives of "Operation Recolonize".</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Next Up:&nbsp;</strong><a href="https://ahmedelmeligy.com/2023/09/21/ucalgary-mpp-week-2-reflection/" target="_blank" rel="noreferrer noopener">MPP week 2 reflection!</a></p>
-<!-- /wp:paragraph -->
