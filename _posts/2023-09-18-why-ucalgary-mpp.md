@@ -16,8 +16,9 @@ date: 2023-09-18
 <p>The School of Public Policy (SPP) at UCalgary stood out, owing to its stellar reputation and highly quantitative curriculum, promising an avenue to integrate my engineering background seamlessly (refer to <a rel="noreferrer noopener" href="http://atlas101.ca/pm/programs/calgary-spp/" target="_blank">Atlas of Public Management</a>). Additionally, the energy-centric focus of the SPP resonated deeply with me. During my research into various energy topics in 2020 and 2021, I had come across notable publications from the faculty and students here.</p>
 <!-- /wp:paragraph -->
 
+
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/09/19/ucalgary-mpp-week-1-reflection/" target="_blank" rel="noreferrer noopener">MPP week 1 reflection!</a></p>
+<p>*<strong>Picture: </strong>Planting trees with Project Forest and Imperial Sept. 2021.</p>
 <!-- /wp:paragraph -->
 
 ---
