@@ -61,13 +61,7 @@ date: 2024-11-03
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="http://ahmedelmeligy.com/2024/11/03/ucalgary-mpp-week-27-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 27 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp; Waterton Park in Waterton Lakes National Park, AB Jul. 16/22.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<img src="/assets/images/img_2409.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
