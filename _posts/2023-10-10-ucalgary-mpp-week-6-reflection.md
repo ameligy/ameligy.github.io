@@ -59,9 +59,7 @@ date: 2023-10-10
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up:</strong> <a href="https://ahmedelmeligy.com/2023/10/13/ucalgary-mpp-week-7-reflection/" target="_blank" rel="noreferrer noopener">MPP week 6 reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong> Vancouver Harbour, Sept. 18/2021.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_1075.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
