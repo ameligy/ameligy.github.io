@@ -195,9 +195,7 @@ date: 2024-02-10
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2024/02/10/ucalgary-mpp-week-18-reflection/" target="_blank" rel="noreferrer noopener">MPP Week 18 Reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Royal Glenora Stairs Edmonton, AB taken Sep. 12/21.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/dsc_8380.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
