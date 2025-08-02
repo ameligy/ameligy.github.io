@@ -29,9 +29,7 @@ date: 2023-10-01
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Next Up: </strong><a href="https://ahmedelmeligy.com/2023/10/10/ucalgary-mpp-week-6-reflection/" target="_blank" rel="noreferrer noopener">MPP week 6 reflection!</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><strong>*Photo:</strong>&nbsp;Day out ice climbing at Haffner Creek in Kootenay National Park, BC Nov. 26/22.</p>
 <!-- /wp:paragraph -->
+
+<img src="/assets/images/img_0618.jpg" alt="Summit photo" style="width:100%; max-width:500px; display:block; margin: 2em auto;">
