@@ -50,6 +50,6 @@ Outside of work, I am a private pilot (working towards my commerical pilot licen
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
+- LinkedIn: [Ahmed Elmeligy](https://www.linkedin.com/in/ahmedelmeligy/)
 - GitHub: [github.com/ameligy](https://github.com/ameligy)
 
