@@ -4,17 +4,17 @@ title: "Ahmed Elmeligy"
 permalink: /
 ---
 
-Engineer · Policy Professional · Pilot-in-Training  
+Engineer · Policy Professional · Private Pilot
 
-I work at the intersection of energy, climate policy, and technical problem-solving. This site collects my writing, projects, and resources across public policy, aviation, and the mountains.
+This site collects my writing, projects, and resources across public policy, aviation, and adventures.
 
 ---
 
 ## About
 
-I trained as a chemical engineer and spent several years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta public service on policy and planning, with a focus on energy and climate.
+I trained as a chemical engineer and spent several years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta public service on policy and planning.
 
-Outside of work, I am a private pilot in training, an endurance runner, and an active member of the Alpine Club of Canada.
+Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and an active member of the Alpine Club of Canada Edmonton Section.
 
 ---
 
@@ -23,21 +23,21 @@ Outside of work, I am a private pilot in training, an endurance runner, and an a
 - **Energy transition & electricity markets**  
   Notes and writing on Alberta’s electricity market, transmission planning, and renewable integration.
 
-- **Climate & public finance**  
-  Work linking climate policy, infrastructure, and long-term public value.
+- **UCalgary MPP Weekly Blogs**  
+  Documented my Master of Public Policy (1-yr) journey at UCalgary with weekly reflection blogs.
+  → See the [Notebook](/notebook/) page.
 
 (Links to specific pieces will go here.)
 
 ---
 
-## Aviation & Notebook
+## Aviation
 
 - **Flying lessons learned**  
   Short reflections from flight training, procedures, and decision-making.
 
-- **Notebook (blog)**  
-  A chronological list of posts, including my UCalgary MPP reflections.  
-  → See the [Notebook](/notebook/) page.
+- **References**
+  Useful online references.
 
 ---
 
@@ -50,7 +50,6 @@ Outside of work, I am a private pilot in training, an endurance runner, and an a
 
 ## Contact
 
-- Email: <your.email@example.com>  
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
 - GitHub: [github.com/ameligy](https://github.com/ameligy)
 
