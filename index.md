@@ -6,24 +6,24 @@ permalink: /
 
 Engineer · Policy Professional · Private Pilot
 
-This site collects my writing, projects, and resources across public policy, aviation, and adventures.
+This site collects my writing, projects, resources across public policy, aviation, and adventures.
 
 ---
 
 ## About
 
-I trained as a chemical engineer and spent several years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta public service on policy and planning.
+I trained as a chemical engineer and spent several years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta Public Service on policy coordination and planning.
 
-Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and an active member of the Alpine Club of Canada Edmonton Section.
+Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and a board member of the Alpine Club of Canada Edmonton Section.
 
 ---
 
 ## Policy & Research
 
-- **Energy transition & electricity markets**  
+**Energy transition & electricity markets**  
   Notes and writing on Alberta’s electricity market, transmission planning, and renewable integration.
 
-- **UCalgary MPP Weekly Blogs**  
+**UCalgary MPP Weekly Blogs**  
   Documented my Master of Public Policy (1-yr) journey at UCalgary with weekly reflection blogs.
   → See the [Notebook](/notebook/) page.
 
@@ -33,10 +33,10 @@ Outside of work, I am a private pilot (working towards my commerical pilot licen
 
 ## Aviation
 
-- **Flying lessons learned**  
+**Flying lessons learned**  
   Short reflections from flight training, procedures, and decision-making.
 
-- **References**
+**References**
   Useful online references.
 
 ---
