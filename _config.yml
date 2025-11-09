@@ -1,5 +1,13 @@
 title: Ahmed Elmeligy's Blog
-description: Engineering meets policy, strategy, and impact.
+description: Energy, climate policy, aviation, and the mountains.
+
+header_pages:
+  - cv.md
+  - research.md
+  - aviation.md
+  - notebook.md
+  - resources.md
+
 theme: minima
 
 plugins:
