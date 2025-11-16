@@ -4,30 +4,25 @@ title: "Ahmed Elmeligy"
 permalink: /
 ---
 
-Engineer · Policy Professional · Private Pilot
+Professional Engineer | Public Policy Leader | Pilot
 
-This site collects my writing, projects, resources across public policy, aviation, and adventures.
+This site collects my writing.
 
 ---
 
 ## About
 
-I trained as a chemical engineer and spent several years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta Public Service on policy coordination and planning.
+I trained as a chemical engineer and spent 5+ years in Canada’s oil and gas sector before completing a Master of Public Policy at the University of Calgary. I now work in the Alberta Public Service on policy coordination and planning.
 
-Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and a board member of the Alpine Club of Canada Edmonton Section.
+Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and a board member of the Alpine Club of Canada, Edmonton Section.
 
 ---
 
-## Policy & Research
-
-**Energy transition & electricity markets**  
-  Notes and writing on Alberta’s electricity market, transmission planning, and renewable integration.
+## Policy
 
 **UCalgary MPP Weekly Blogs**  
   Documented my Master of Public Policy (1-yr) journey at UCalgary with weekly reflection blogs.
   → See the [Notebook](/notebook/) page.
-
-(Links to specific pieces will go here.)
 
 ---
 
@@ -38,13 +33,6 @@ Outside of work, I am a private pilot (working towards my commerical pilot licen
 
 **References**
   Useful online references.
-
----
-
-## Mountains & Endurance
-
-- Trip reports and photos from climbs and ski tours with the Alpine Club of Canada.
-- Notes on running, boxing, and training for endurance while balancing work.
 
 ---
 
