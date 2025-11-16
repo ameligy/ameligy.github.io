@@ -8,7 +8,6 @@ Professional Engineer | Public Policy Leader | Pilot
 
 This site collects my writing.
 
----
 
 ## About
 
@@ -16,7 +15,7 @@ I trained as a chemical engineer and spent 5+ years in Canada’s oil and gas se
 
 Outside of work, I am a private pilot (working towards my commerical pilot license), an endurance runner, and a board member of the Alpine Club of Canada, Edmonton Section.
 
----
+
 
 ## Policy
 
@@ -24,7 +23,7 @@ Outside of work, I am a private pilot (working towards my commerical pilot licen
   Documented my Master of Public Policy (1-yr) journey at UCalgary with weekly reflection blogs.
   → See the [Notebook](/notebook/) page.
 
----
+
 
 ## Aviation
 
