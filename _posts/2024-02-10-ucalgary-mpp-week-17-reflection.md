@@ -167,7 +167,7 @@ date: 2024-02-10
 
 
 <!-- wp:paragraph -->
-<p><a href="https://guides.douglascollege.ca/legalcitation/case-law" target="_blank" rel="noreferrer noopener">Reference </a>for traditional case law citation. Additionally, Canadian court identifier tables could be found <a href="https://lexum.com/ccc-ccr/docs/ql.courts_en.html" target="_blank" rel="noreferrer noopener">here</a>.</p>
+<p><a href="https://guides.douglascollege.ca/legalcitation/case-law" target="_blank" rel="noreferrer noopener">Reference</a> for traditional case law citation. Additionally, Canadian court identifier tables could be found <a href="https://lexum.com/ccc-ccr/docs/ql.courts_en.html" target="_blank" rel="noreferrer noopener">here</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
