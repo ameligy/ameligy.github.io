@@ -59,7 +59,7 @@ date: 2023-09-19
   <figcaption>
     <strong>Figure 1.</strong> March 22, 2805 survey: “How do you feel about "Operation Recolonize"?” 5000 respondents out of 7450* citizens. *Based on 2804 census</figcaption></figure>
 <!-- /wp:image -->
-
+</p>
 <!-- wp:paragraph -->
 <p><strong>Options:</strong></p>
 <!-- /wp:paragraph -->
