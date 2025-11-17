@@ -52,8 +52,12 @@ date: 2023-09-19
 <p>The Axiom’s citizens general sentiment towards "Operation Recolonize" is predominately cautious optimism, with 44% of respondents expressing this view per Figure 1, as they grapple with the emerging reality of breaking free from the cycle of consumption and stepping into a new beginning on Earth.&nbsp; While some exhibit curiosity and excitement, fueled by Captain B. McCrea's passionate exclamation "I don't want to survive, I want to live!", the majority remain apprehensive as they grew up accustomed to the comfort and safety.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":853,"width":"734px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://ahmedelmeligy.com/wp-content/uploads/2023/09/image.png?w=490" alt="" class="wp-image-853" style="width:734px;height:auto" /><figcaption class="wp-element-caption"><strong>Figure 1 </strong>March 22, 2805 survey: “How do you feel about "Operation Recolonize"?” 5000 respondents out of 7450* citizens. *Based on 2804 census</figcaption></figure>
+<figure>
+  <img src="/assets/images/image (2).png"
+       alt="Survey results: How do you feel about Operation Recolonize?"
+       style="max-width: 100%; height: auto;">
+  <figcaption>
+    <strong>Figure 1.</strong> March 22, 2805 survey: “How do you feel about "Operation Recolonize"?” 5000 respondents out of 7450* citizens. *Based on 2804 census</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
