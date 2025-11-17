@@ -45,15 +45,14 @@ date: 2024-08-21
 <!-- /wp:paragraph -->
 
 <figure>
-  <img src="{{ "/assets/alberta-renewables-capacity-2000-2023.png" | relative_url }}" 
+  <img src="/assets/images/alberta-renewables-capacity-2000-2023.png" 
        alt="Alberta renewable generation capacity, 2000–2023" 
        style="max-width: 100%; height: auto;">
   <figcaption>
-    <strong>Figure 1.</strong> Alberta electric energy total renewable generation capacity (maximum continuous rated power output in megawatts) by resource for 2000–2023. Figure created using Alberta Utilities Commission’s publicly available 
-    <a href="https://www.auc.ab.ca/pages/annual-electricity-data.aspx">annual electricity data</a>.
+    <strong>Figure 1.</strong> Alberta electric energy total renewable generation capacity (MW) by resource for 2000–2023.  
+    Source: Alberta Utilities Commission <a href="https://www.auc.ab.ca/pages/annual-electricity-data.aspx">annual electricity data</a>.
   </figcaption>
 </figure>
-
 
 <!-- wp:paragraph -->
 <p>This mismatch threatens the stability and reliability of energy supply, creating an urgent need for comprehensive policy solutions.</p>
