@@ -15,7 +15,7 @@ I am a chemical engineer with over five years of experience in Alberta’s oil a
 
 Outside of work, I am pursuing my commercial pilot licence, enjoy endurance running, and serve as a board member of the Alpine Club of Canada, Edmonton Section.
 
-## Policy
+## Public Policy
 
 **UCalgary MPP Weekly Blogs** – Archived reflections from my one-year MPP program.  
   → See the [Notebook](/notebook/) page.
