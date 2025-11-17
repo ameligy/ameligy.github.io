@@ -23,6 +23,7 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
 ## Aviation
 
 **Flying lessons learned** – Short reflections from flight training, procedures, and decision-making.
+
 **References** – Useful online references for general aviation.
 
 ---
