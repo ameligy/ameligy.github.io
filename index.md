@@ -17,12 +17,11 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
 
 ## Public Policy
 
-**UCalgary MPP Weekly Blogs** – Archived weekly reflections from my one-year University of Calgary MPP program, available [here](/mpp-reflections.md/).
+**Weekly Blogs** – Archived weekly reflections from my one-year University of Calgary MPP program, available [here](/mpp-reflections.md/).
 
 ## Aviation
 
 **Flying lessons learned** – Short reflections from flight training, post-flight debriefs and decision-making.
-
 **References** – Useful online references for general aviation.
 
 ---
