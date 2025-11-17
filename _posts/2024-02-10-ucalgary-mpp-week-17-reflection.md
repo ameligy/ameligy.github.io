@@ -136,9 +136,12 @@ date: 2024-02-10
 <p><em>Citing Legislation</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1460,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2024/02/image-1.png?w=1024" alt="" class="wp-image-1460" /></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="/assets/images/image-1.png"
+       alt="Citing legislation example"
+       style="max-width: 100%; height: auto; margin: 1.2em 0;">
+</figure>
+
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">Jurisdiction Abbreviations </h3>
