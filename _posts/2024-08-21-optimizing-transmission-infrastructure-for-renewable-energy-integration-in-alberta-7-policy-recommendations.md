@@ -54,6 +54,7 @@ date: 2024-08-21
   </figcaption>
 </figure>
 
+
 <!-- wp:paragraph -->
 <p>This mismatch threatens the stability and reliability of energy supply, creating an urgent need for comprehensive policy solutions.</p>
 <!-- /wp:paragraph -->
