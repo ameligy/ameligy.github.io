@@ -33,7 +33,7 @@ date: 2023-10-21
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are two stark realities. Firstly, the current trajectory does not position Canada to meet its emissions targets, primarily due to the continuously surging emissions from oil and gas production. Secondly, the oil and gas sector is responsible for 28% of Canada's total greenhouse gas emissions, while contributing ~5% of the nation's GDP. Oil and gas production scope 1 and 2 emissions<sup data-fn="c1a1f079-bcba-4c7e-bceb-98bbd0070090" class="fn"><a href="#c1a1f079-bcba-4c7e-bceb-98bbd0070090" id="c1a1f079-bcba-4c7e-bceb-98bbd0070090-link">1</a></sup> are Canada’s&nbsp;biggest and fastest growing&nbsp;set of&nbsp;emissions.&nbsp;</p>
+<p>There are two stark realities. Firstly, the current trajectory does not position Canada to meet its emissions targets, primarily due to the continuously surging emissions from oil and gas production. Secondly, the oil and gas sector is responsible for 28% of Canada's total greenhouse gas emissions, while contributing ~5% of the nation's GDP. Oil and gas production scope 1 and 2 emissions are Canada’s&nbsp;biggest and fastest growing&nbsp;set of&nbsp;emissions.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
