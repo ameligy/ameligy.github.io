@@ -86,10 +86,16 @@ date: 2023-09-19
 <p>The strategy recommended herein encourages responsible consumption, fosters community building and active participation in the recolonization process, and provides the roadmap to actively clean-up the planet. A phased approach would be adopted, starting with a comprehensive educational campaign focused on sustainable living and reduced consumption habits. Followed by the repurposing of service robots to assist with recommissioning Wall-E units, practical learning and community-building activities, building housing and transporting garbage to outer space as depicted in Figure 2.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":855,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2023/09/image-1.png?w=906" alt="" class="wp-image-855" /><figcaption class="wp-element-caption"><strong>Figure 2</strong> Detailed educational campaign and service robot repurposing implementation plan with phase target duration.</figcaption></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="/assets/images/image-1 (2).png"
+       alt="Education and service robot repurposing plan"
+       style="max-width: 100%; height: auto;">
+  <figcaption>
+    <strong>Figure 2.</strong> Detailed educational campaign and service robot repurposing implementation plan with phase target duration.
+  </figcaption>
+</figure>
 
+</p>
 <!-- wp:paragraph -->
 <p>To ensure the success of this policy option, it is essential for Captain B. McCrea to actively engage the key stakeholders namely, Axiom’s citizens and BnL Corporation. It is recommended to establish bi-weekly townhalls where citizens can voice their opinions, suggestions, and concerns, thereby encouraging active participation and ownership of the recolonization process. Additionally, bringing BnL on board as a partner to leverage their technological prowess and resources in facilitating the transformation. BnL would be mandated to shift its business model to focus on sustainable products and services, aligning its mission statement with the objectives of "Operation Recolonize".</p>
 <!-- /wp:paragraph -->
