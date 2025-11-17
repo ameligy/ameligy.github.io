@@ -42,9 +42,12 @@ date: 2024-02-10
 <p>The course promises a deep dive into the data pipeline, encompassing Data Collection, Data Management, Analytics, and Visualization. Through group discussions, we aim to unpack the authors' intentions  to develop an understanding of the evolving digital landscape and how it interact with public policy.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1497,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2024/02/image-5.png?w=1024" alt="" class="wp-image-1497" /></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="/assets/images/image-5.png"
+       alt="Data Pipeline"
+       style="max-width: 100%; height: auto; margin: 1.2em 0;">
+</figure>
+
 
 <!-- wp:paragraph -->
 <p><strong>Politics and Strategy</strong></p>
