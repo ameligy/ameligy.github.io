@@ -29,5 +29,5 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
 
 ## Contact
 
-- LinkedIn: [Ahmed Elmeligy](https://www.linkedin.com/in/ahmedelmeligy/)
-- GitHub: [ameligy](https://github.com/ameligy)
+- [LinkedIn](https://www.linkedin.com/in/ahmedelmeligy/)
+- [GitHub](https://github.com/ameligy)
