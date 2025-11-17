@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Notebook"
-permalink: /notebook/
+title: "MPP Reflections"
+permalink: /mpp-reflections/
 ---
 A chronological list of posts, including reflections from my MPP, policy notes, and other writing.
 
