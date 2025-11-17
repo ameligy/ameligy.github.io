@@ -17,7 +17,7 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
 
 ## Public Policy
 
-**UCalgary MPP Weekly Blogs** – Archived weekly reflections from my one-year University of Calgary MPP program, available [here](/mpp-reflections/).
+**UCalgary MPP Weekly Blogs** – Archived weekly reflections from my one-year University of Calgary MPP program, available [here](/mpp-reflections.md/).
 
 ## Aviation
 
