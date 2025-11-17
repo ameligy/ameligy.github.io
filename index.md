@@ -4,7 +4,7 @@ title: "Ahmed Elmeligy"
 permalink: /
 ---
 
-Professional Engineer | Public Policy Leader | Pilot
+Professional Engineer * Public Policy Leader * Pilot
 
 This site collects my writing.
 
