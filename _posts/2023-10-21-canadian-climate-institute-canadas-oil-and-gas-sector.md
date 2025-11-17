@@ -87,3 +87,16 @@ date: 2023-10-21
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:footnotes /--></div>
 <!-- /wp:group -->
+
+<figure>
+  <img src="/assets/images/image-4 (1).png"
+       alt="Common Sources of Federal Greenhouse Gas Emissions"
+       style="max-width: 100%; height: auto; margin: 1.5em 0;">
+  <figcaption>
+    <strong>Common Sources of Federal Greenhouse Gas Emissions</strong><br>
+    <strong>Source:</strong> US Environmental Protection Agency (EPA)<br>
+    <a href="https://www.epa.gov/greeningepa/greenhouse-gases-epa">
+      https://www.epa.gov/greeningepa/greenhouse-gases-epa
+    </a>
+  </figcaption>
+</figure>
