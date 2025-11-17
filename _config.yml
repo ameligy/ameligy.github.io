@@ -4,7 +4,7 @@ header_pages:
   - cv.md
   - research.md
   - aviation.md
-  - notebook.md
+  - mpp-reflections.md
   - resources.md
 
 theme: minima
