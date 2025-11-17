@@ -1,4 +1,4 @@
-<img width="1027" height="117" alt="image" src="https://github.com/user-attachments/assets/4db3207a-50ab-472e-9b4a-3798a81da3fb" />---
+---
 layout: post
 title: "Ucalgary mpp week 17 reflection"
 date: 2024-02-10
