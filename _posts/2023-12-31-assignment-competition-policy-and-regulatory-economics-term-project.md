@@ -152,9 +152,12 @@ date: 2023-12-31
 <p>Given that AB electricity prices are volatile, there are periods where AB prices are lower than BC. However, recent trends highlight a significant shift in this pattern particularly with the expiry of the 20 year PPAs on Dec 31, 2020 [36]. This event corresponded with a step change increase in the execution of AB generators market power. 63% of AB’s $70/MWh increase in average peak-hour prices from 2020 to 2021 was attributed to firms raising their offer prices above marginal cost. This surge in market power, linked to the expiry of the PPAs, was notable even when focusing on a narrow timeframe around the expiry event, during which there were no changes to the configuration of generation assets in the market [36]. Such trend underscores the complexity of AB's electricity market, where despite historical instances of lower prices compared to BC, recent developments have led to significant price increases driven by market power considerations.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1375,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2023/12/image.png?w=829" alt="" class="wp-image-1375" /></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="/assets/images/table-2-ab-bc-electricity-prices-2022.png"
+       alt="Table 2. AB and BC Electricity Prices Comparison in 2022"
+       style="max-width: 100%; height: auto; margin: 1.2em 0;">
+ </figure>
+
 
 <!-- wp:paragraph -->
 <p><strong>Renewable Energy Adoption</strong></p>
