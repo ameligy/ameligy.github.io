@@ -153,7 +153,7 @@ date: 2023-12-31
 <!-- /wp:paragraph -->
 
 <figure>
-  <img src="/assets/images/table-2-ab-bc-electricity-prices-2022.png"
+  <img src="/assets/images/image (1).png"
        alt="Table 2. AB and BC Electricity Prices Comparison in 2022"
        style="max-width: 100%; height: auto; margin: 1.2em 0;">
  </figure>
