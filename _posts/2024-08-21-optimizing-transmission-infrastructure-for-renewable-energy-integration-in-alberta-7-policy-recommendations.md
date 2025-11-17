@@ -44,9 +44,16 @@ date: 2024-08-21
 <p>While the province has experienced remarkable growth of renewable generation with installed capacity doubling from 2020 to 2023 (refer to Figure 1), the underlying transmission infrastructure—built primarily for centralized fossil fuel plants—lags.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1784,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2024/08/image.png?w=966" alt="" class="wp-image-1784" /><figcaption class="wp-element-caption"><strong>Figure 1. </strong>Alberta electric energy total renewable generation capacity (maximum continuous rated power output in&nbsp;megawatt) by resource for 2000 – 2023. Figure created using Alberta Utilities Commission’s publicly available <a href="https://media.auc.ab.ca/prd-wp-uploads/Shared%20Documents/2023-InstalledCapacity.pdf">annual electricity data</a>.</figcaption></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="{{ "/assets/alberta-renewables-capacity-2000-2023.png" | relative_url }}" 
+       alt="Alberta renewable generation capacity, 2000–2023" 
+       style="max-width: 100%; height: auto;">
+  <figcaption>
+    <strong>Figure 1.</strong> Alberta electric energy total renewable generation capacity (maximum continuous rated power output in megawatts) by resource for 2000–2023. Figure created using Alberta Utilities Commission’s publicly available 
+    <a href="https://www.auc.ab.ca/pages/annual-electricity-data.aspx">annual electricity data</a>.
+  </figcaption>
+</figure>
+
 
 <!-- wp:paragraph -->
 <p>This mismatch threatens the stability and reliability of energy supply, creating an urgent need for comprehensive policy solutions.</p>
