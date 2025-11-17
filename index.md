@@ -11,7 +11,7 @@ This site collects my short notes and writing.
 
 ## About
 
-I am a chemical engineer with over five years of experience in Alberta’s oil and gas sector and hold a Master of Public Policy from the University of Calgary. I work in the Alberta Public Service, supporting cross-government policy coordination and planning.
+I am a chemical engineer with over five years of experience in Alberta’s oil and gas sector and hold a Master of Public Policy (MPP) from the University of Calgary. I work in the Alberta Public Service, supporting cross-government policy coordination and planning.
 
 Outside of work, I am pursuing my commercial pilot licence, enjoy endurance running, and serve as a board member of the Alpine Club of Canada, Edmonton Section.
 
