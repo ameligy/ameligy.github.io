@@ -3,7 +3,7 @@ layout: page
 title: "MPP Reflections"
 permalink: /mpp-reflections/
 ---
-A reverse chronological list of reflection posts from my MPP.
+A reverse chronological list of reflection posts from my one-year University of Calgary MPP program.
 
 ---
 
