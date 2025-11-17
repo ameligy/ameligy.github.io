@@ -1,4 +1,4 @@
----
+<img width="1027" height="117" alt="image" src="https://github.com/user-attachments/assets/4db3207a-50ab-472e-9b4a-3798a81da3fb" />---
 layout: post
 title: "Ucalgary mpp week 17 reflection"
 date: 2024-02-10
@@ -159,9 +159,12 @@ date: 2024-02-10
 <p>The court assigns <strong>neutral citation</strong> when the decision is rendered, so a very recent case will have&nbsp;<strong>only</strong>&nbsp;a neutral citation until it is included in a printed reporter. </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":1468,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://ahmedelmeligy.com/wp-content/uploads/2024/02/image-3.png?w=1024" alt="" class="wp-image-1468" /></figure>
-<!-- /wp:image -->
+<figure>
+  <img src="/assets/images/image-3.png"
+       alt="Citing Case Law example"
+       style="max-width: 100%; height: auto; margin: 1.2em 0;">
+</figure>
+
 
 <!-- wp:paragraph -->
 <p><a href="https://guides.douglascollege.ca/legalcitation/case-law" target="_blank" rel="noreferrer noopener">Reference </a>for traditional case law citation. Additionally, Canadian court identifier tables could be found <a href="https://lexum.com/ccc-ccr/docs/ql.courts_en.html" target="_blank" rel="noreferrer noopener">here</a>.</p>
