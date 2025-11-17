@@ -3,7 +3,7 @@ layout: page
 title: "MPP Reflections"
 permalink: /mpp-reflections/
 ---
-A chronological list of posts, including reflections from my MPP, policy notes, and other writing.
+A reverse chronological list of reflection posts from my MPP.
 
 ---
 
