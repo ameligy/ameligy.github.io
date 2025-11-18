@@ -40,7 +40,7 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
     <a href="https://www.youtube.com/@Ahmed_Elmeligy">@Ahmed_Elmeligy</a>
   </li>
   <li>
-    <img src="https://cdn.simpleicons.org/linkedin/555" width="16" style="vertical-align: middle;"/>
+    <img src="/assets/images/InBug-Black.png" width="16" style="vertical-align: middle;"/>
     <a href="https://www.linkedin.com/in/ahmedelmeligy/">Ahmed Elmeligy</a>
   </li>
 </ul>
