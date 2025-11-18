@@ -29,21 +29,18 @@ Outside of work, I am pursuing my commercial pilot licence, enjoy endurance runn
 
 ## Contact
 
+
 <ul style="list-style: none; padding-left: 0;">
   <li>
-    <img src="https://cdn.simpleicons.org/x/1DA1F2" width="16" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/x/555" width="16" style="vertical-align: middle;"/>
     <a href="https://x.com/AhmedElmeligy_">@AhmedElmeligy_</a>
   </li>
   <li>
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" style="vertical-align: middle;"/>
+    <img src="https://cdn.simpleicons.org/youtube/555" width="16" style="vertical-align: middle;"/>
     <a href="https://www.youtube.com/@Ahmed_Elmeligy">@Ahmed_Elmeligy</a>
   </li>
   <li>
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" style="vertical-align: middle;"/>
-    <a href="https://www.linkedin.com/in/ahmedelmeligy/">ahmedelmeligy</a>
+    <img src="https://cdn.simpleicons.org/linkedin/555" width="16" style="vertical-align: middle;"/>
+    <a href="https://www.linkedin.com/in/ahmedelmeligy/">Ahmed Elmeligy</a>
   </li>
 </ul>
-
-
-
-
